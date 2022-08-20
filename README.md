@@ -19,7 +19,7 @@ I'm Subrat Yeeshu, junior student at Indian Institute of Information Technology,
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649" alt="css" width="30" height="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="javascript" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="30" height="30"/>
-<img src="https://rohitkumar-200.github.io/Images/github-profile/express.svg" alt="express" width="30" height="30"/>
+<img src="[https://rohitkumar-200.github.io/Images/github-profile/express.svg](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)" alt="express" width="30" height="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="react-js" width="30" height="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355" alt="node-js" width="30" height="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/636px-Database-mysql.svg.png?20220815123837" alt="mysql" width="30" height="30"/>
@@ -28,11 +28,11 @@ I'm Subrat Yeeshu, junior student at Indian Institute of Information Technology,
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436" alt="figma" width="30" height="30"/>
 </p>
 
-## <img src="https://rohitkumar-200.github.io/Images/github-profile/stats.svg" alt="c" width="30" height="30"/> GitHub Stats
+##  📈 GitHub Stats
 
 <a href="https://github.com/SubratYeeshu/SubratYeeshu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubratYeeshu&hide=java,tex,Objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/RohitKumar-200/RohitKumar-200">
+<a href="https://github.com/SubratYeehsu/SubratYeeshu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SubratYeeshu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Subrat's GitHub Stats" />
 </a>
