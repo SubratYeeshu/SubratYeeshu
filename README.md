@@ -9,7 +9,7 @@ I'm Subrat Yeeshu, junior student at Indian Institute of Information Technology,
 
 - ✉️ You can drop a mail at **shubrat.parth@gmail.com**
 
-- 🔗 Portfolio [https://rohit-kumar.me/](https://subratyeeshu.github.io/Portfolio/)
+- 🔗 Portfolio [https://subratyeeshu.github.io/Portfolio/]
 
 ## Languages and Tools:
 <p align="left" style="letter-spacing: 6px">
