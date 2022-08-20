@@ -9,7 +9,7 @@ I'm Subrat Yeeshu, junior student at Indian Institute of Information Technology,
 
 - ✉️ You can drop a mail at **shubrat.parth@gmail.com**
 
-- 🔗 Portfolio [https://subratyeeshu.github.io/Portfolio/]
+- 🔗 Portfolio **https://subratyeeshu.github.io/Portfolio/**
 
 ## Languages and Tools:
 <p align="left" style="letter-spacing: 6px">
@@ -34,7 +34,7 @@ I'm Subrat Yeeshu, junior student at Indian Institute of Information Technology,
 ## <img src="https://rohitkumar-200.github.io/Images/github-profile/stats.svg" alt="c" width="30" height="30"/> GitHub Stats
 
 <a href="https://github.com/RohitKumar-200/RohitKumar-200">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumar-200&hide=java,tex,Objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubratYeeshu&hide=java,tex,Objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/RohitKumar-200/RohitKumar-200">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitKumar-200&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rohit's GitHub Stats" />
