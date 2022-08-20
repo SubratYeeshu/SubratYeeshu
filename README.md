@@ -13,7 +13,7 @@ I'm Subrat Yeeshu, junior student at Indian Institute of Information Technology,
 
 ## Languages and Tools:
 <p align="left" style="letter-spacing: 6px">
-<img src="https://wiki.sei.cmu.edu/confluence/display/c" alt="c" width="30" height="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="c" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/cpp.svg" alt="cpp" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/html.svg" alt="html" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/css.svg" alt="css" width="30" height="30"/>
