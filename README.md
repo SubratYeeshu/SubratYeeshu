@@ -3,7 +3,7 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Subrat Yeeshu, junior student at Indian Institute of Information Technology, Lucknow, India pursuing B.Tech in Information Technology '24. You can reach to me <a href="https://www.linkedin.com/in/subrat-yeeshu/"><img src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" height="15px" style="; margin-left: 3px" /></a> or on <a href="https://twitter.com/subratyeeshu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" height="15px" style="; margin-left: 3px" /></a>.
+I'm Subrat Yeeshu, junior student at Indian Institute of Information Technology, Lucknow, India pursuing B.Tech in Information Technology '24. You can reach to me <a href="https://www.linkedin.com/in/subrat-yeeshu/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="15px" style="; margin-left: 3px" /></a> or on <a href="https://twitter.com/subratyeeshu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" height="15px" style="; margin-left: 3px" /></a>.
 
 - 🧑‍💻 Currently I'm practicing on my data structures and algorithm part
 
