@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Subrat Yeeshu</h1>
 <h3 align="center">Web Developer | Programmer</h3>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Subrat Yeeshu, junior student at Indian Institute of Information Technology, Lucknow, India pursuing B.Tech in Information Technology '24. You can reach to me <a href="https://www.linkedin.com/in/subrat-yeeshu/"><img src="https://www.flaticon.com/free-icon/linkedin_174857" height="15px" style="; margin-left: 3px" /></a> or on <a href="https://twitter.com/subratyeeshu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" height="15px" style="; margin-left: 3px" /></a>.
+I'm Subrat Yeeshu, junior student at Indian Institute of Information Technology, Lucknow, India pursuing B.Tech in Information Technology '24. You can reach to me <a href="https://www.linkedin.com/in/subrat-yeeshu/"><img src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" height="15px" style="; margin-left: 3px" /></a> or on <a href="https://twitter.com/subratyeeshu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" height="15px" style="; margin-left: 3px" /></a>.
 
-- 🔭 I’m currently working on a project based on MERN stack
+- 🧑‍💻 Currently I'm practicing on my data structures and algorithm part
 
-- 👨‍💻 All of my projects are available [here](https://github.com/RohitKumar-200?tab=repositories)
+- ✉️ You can drop a mail at **shubrat.parth@gmail.com**
 
-- 💬 Ask me about anything, I am happy to help
-
-- 📫 Mail me at **rohitworks200@gmail.com**
-
-- 🔗 Portfolio https://rohit-kumar.me/
+- 🔗 Portfolio [https://rohit-kumar.me/](https://subratyeeshu.github.io/Portfolio/)
 
 ## Languages and Tools:
 <p align="left" style="letter-spacing: 6px">
-<img src="https://rohitkumar-200.github.io/Images/github-profile/c.svg" alt="c" width="30" height="30"/>
+<img src="https://wiki.sei.cmu.edu/confluence/display/c" alt="c" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/cpp.svg" alt="cpp" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/html.svg" alt="html" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/css.svg" alt="css" width="30" height="30"/>
